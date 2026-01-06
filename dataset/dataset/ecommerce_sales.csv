@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product,category,price,quantity,region,payment_method
+1,C001,2024-01-05,Laptop,Electronics,800,1,North,Credit Card
+2,C002,2024-01-06,Headphones,Electronics,150,2,South,UPI
+3,C003,2024-01-07,Shoes,Fashion,120,1,East,Debit Card
+4,C001,2024-01-10,Mouse,Electronics,40,2,North,Credit Card
+5,C004,2024-01-12,T-Shirt,Fashion,30,3,West,Cash
+6,C005,2024-01-15,Refrigerator,Appliances,900,1,South,Net Banking
+7,C002,2024-01-18,Keyboard,Electronics,70,1,South,UPI
+8,C006,2024-01-20,Microwave,Appliances,300,1,East,Debit Card
+9,C003,2024-01-22,Jeans,Fashion,60,2,East,Credit Card
+10,C004,2024-01-25,Smartphone,Electronics,700,1,West,Net Banking
+11,C001,2024-02-02,Tablet,Electronics,400,1,North,Credit Card
+12,C005,2024-02-05,Air Conditioner,Appliances,1200,1,South,Net Banking
+13,C006,2024-02-10,Sneakers,Fashion,150,1,East,Debit Card
+14,C002,2024-02-12,Monitor,Electronics,300,1,South,UPI
+15,C003,2024-02-15,Jacket,Fashion,200,1,East,Credit Card
